@@ -1,0 +1,18 @@
+{
+  "index": "介绍",
+  "another": "获得更好结果的六项策略",
+  "reference": "提供参考文字",
+  "subtask": "拆分为子任务",
+  "think": "给模型时间“思考”",
+  "externaltools": "使用外部工具",
+  "about": {
+    "title": "关于",
+    "type": "page"
+  },
+  "contact": {
+    "title": "联系我们 ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}

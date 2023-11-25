@@ -1,0 +1,9 @@
+.next
+code/.next
+
+dist
+code/dist
+
+node_modules
+code/node_modules
+
